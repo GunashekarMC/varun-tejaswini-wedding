@@ -1,0 +1,9 @@
+VARUN & TEJASWINI — ONE-PAGE WEDDING WEBSITE
+
+1. Extract the entire ZIP.
+2. Double-click index.html to preview.
+3. To share online, open https://app.netlify.com/drop and upload the extracted varun-tejaswini-wedding folder.
+4. Send the resulting website link to family and friends.
+
+Everything is frontend-only. All photos and videos are in data/.
+See README.md for customization, event details and social-preview instructions.

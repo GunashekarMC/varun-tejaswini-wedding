@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Varun Tejaswini Wedding//Invitation//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:varun-tejaswini-reception-20261118@wedding
+DTSTAMP:20261114T000000Z
+DTSTART:20261118T133000Z
+SUMMARY:Wedding Reception - K. S. Varun & C. S. Tejaswini
+LOCATION:A & A Convention Center\, Holalu Road\, Mandya\, Karnataka\, India
+DESCRIPTION:Reception at 7:00 PM onwards (IST). Join us to celebrate! Venue: A & A Convention Center\, Holalu Road\, Mandya. End time not specified on the invitation.
+URL:https://goo.gl/maps/3TekMaG1v3dLyFPw6
+END:VEVENT
+END:VCALENDAR

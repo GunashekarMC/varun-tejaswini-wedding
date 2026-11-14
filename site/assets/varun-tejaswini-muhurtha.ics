@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Varun Tejaswini Wedding//Invitation//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:varun-tejaswini-muhurtha-20261119@wedding
+DTSTAMP:20261114T000000Z
+DTSTART:20261119T051500Z
+DTEND:20261119T054500Z
+SUMMARY:Wedding Muhurtha - K. S. Varun & C. S. Tejaswini
+LOCATION:A & A Convention Center\, Holalu Road\, Mandya\, Karnataka\, India
+DESCRIPTION:Auspicious wedding muhurtha from 10:45 AM to 11:15 AM (IST). A & A Convention Center\, Holalu Road\, Mandya.
+URL:https://goo.gl/maps/3TekMaG1v3dLyFPw6
+END:VEVENT
+END:VCALENDAR
